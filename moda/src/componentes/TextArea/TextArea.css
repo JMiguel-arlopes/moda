@@ -1,0 +1,24 @@
+.text-area {
+    margin: 1.5rem 0;
+    display: block;
+    width: 100%;
+}
+
+.text-area label {
+    display: block;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.text-area input {
+    border: 0;
+    background-color: #FFF;
+    font-size: 16px;
+    padding: 18px 16px;
+    width: 100%;
+}
+
+.text-area input:active,
+.text-area input:valid {
+    outline: 0;
+}

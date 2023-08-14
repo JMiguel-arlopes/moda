@@ -1,5 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
 .App {
-  text-align: center;
+  text-align: start;
 }
 
 .App-logo {
@@ -32,6 +36,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
